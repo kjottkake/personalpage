@@ -1,3 +1,10 @@
 body {
-    background-color: purple;
+    background-color: #121212; /*darktheme*/
+    font-family: 'Merriweather', serif;
+    color: #ffffff; 
+}
+
+.navigation ul {
+ list-style-type: none;   
+ font-weight: 700;
 }
