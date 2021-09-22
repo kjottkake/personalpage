@@ -4,7 +4,26 @@ body {
     color: #ffffff; 
 }
 
+.mySite {
+    width: 80%;
+    margin: auto;
+}
+
+.segment {
+    padding: 250px 20% 20% 100px;
+}
+
+
+.name {
+    font-weight: 700;
+    padding: 12px 24px;
+}
+
 .navigation ul {
  list-style-type: none;   
  font-weight: 700;
+}
+
+ul {
+    list-style-type: none;
 }
