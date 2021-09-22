@@ -4,15 +4,20 @@ body {
     color: #ffffff; 
 }
 
-.mySite {
+/* .mySite {
     width: 80%;
     margin: auto;
-}
+} */
 
 .segment {
     padding: 250px 20% 20% 100px;
 }
 
+#whereimfrom {
+    padding: 7% 15%;
+    position: relative;
+    background-color: #272727;
+}
 
 .name {
     font-weight: 700;
