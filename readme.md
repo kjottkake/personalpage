@@ -1,12 +1,12 @@
 TODO LIST:
    []index.html
-    [x]section navbar
-    []section intro
-    []section whereimfrom
+    [x]navigation navbar
+    [x]section intro
+    [x]section whereimfrom
     []section whereimnowliving
     []section whatido
     []section hobbies
-    []cta
+    []section cta
    []resume.html
    []portfolio.html
    []about.html
