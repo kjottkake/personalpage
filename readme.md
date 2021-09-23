@@ -1,6 +1,6 @@
 TODO LIST:
    []index.html
-    []section navbar
+    [x]section navbar
     []section intro
     []section whereimfrom
     []section whereimnowliving
