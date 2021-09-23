@@ -4,11 +4,12 @@ body {
     color: #ffffff; 
 }
 
-/* .mySite {
-    width: 80%;
-    margin: auto;
-} */
+a {
+    color: inherit; /*standard colors*/
+    text-decoration: none;
+}
 
+/* sections */
 .segment {
     padding: 25% 15%;
 
@@ -18,21 +19,30 @@ body {
     font-size: 2.5rem;
 }
 
+/* where I'm from section  */
 #whereimfrom {
     padding: 25% 15%;
     position: relative;
     background-color: #272727;
 }
 
+/* just my name thingie to be changed? */
+
 .name {
     font-weight: 700;
     padding: 12px 24px;
 }
 
+/* navbar */
 .navigation ul {
  list-style-type: none;   
  font-weight: 700;
 }
+
+.navigation li {
+    float: left;
+}
+
 
 ul {
     list-style-type: none;
