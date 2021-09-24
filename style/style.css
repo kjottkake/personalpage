@@ -9,6 +9,11 @@ a {
     text-decoration: none;
 }
 
+ul {
+    list-style-type: none;
+}
+
+
 /* sections */
 .segment {
     padding: 25% 15%;
@@ -19,16 +24,14 @@ a {
     font-size: 2.5rem;
 }
 
-/* just my name thingie to be changed? */
 
+/* navbar stuff */
+    /* just my name thingie to be changed? */
 .name {
     font-weight: 700;
     padding: 12px 24px;
     display: inline;
 }
-
-
-/* navbar stuff */
 
 .navigation {
     float: right;
@@ -41,13 +44,10 @@ a {
 }
 
 
-ul {
-    list-style-type: none;
-}
-
 /* where I'm from section  */
 #whereimfrom {
-    padding: 25% 15%;
+    text-align: center;
+    padding: 17% 15%;
     position: relative;
     background-image: url("https://images.unsplash.com/photo-1539236931660-5dc598663ed1?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1470&q=80");
     background-repeat: no-repeat;
@@ -62,3 +62,37 @@ ul {
     font-size: 2.5rem;
 }
 
+/* where I'm now section */
+#whereimnow {
+    padding: 25% 15%;
+    background-color: #ffffff;
+    color: #121212;
+    text-align: center;
+}
+
+#whereimnow h1 {
+    font-size: 2.5rem;
+    margin-bottom: 12%;
+    /* text-align: center; */
+}
+
+#whereimnow img{
+    /* width: 50%; */
+    height: 400px;
+    padding: 12px 40px;
+    margin: 12px;
+    float: left;
+    margin-bottom: 25px;
+    border: 2px solid green;
+    display: block;
+}
+
+.imageframe {
+    border: 2px solid red;
+    height: 400px;
+    margin: 12px;
+} 
+
+#whereimnow caption {
+    /* padding: 10px 20px; */
+}
