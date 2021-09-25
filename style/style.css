@@ -33,12 +33,12 @@ ul {
     display: inline;
 }
 
-.navigation {
+nav {
     float: right;
     padding: 12px 40px;
 }
 
-.navigation a {
+nav a {
     padding-left: 12px;
     padding-right: 12px;
 }
