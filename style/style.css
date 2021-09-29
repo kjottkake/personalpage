@@ -95,6 +95,13 @@ nav a {
     margin: 12px;
 } 
 
+.webdev {
+    padding: 25% 15%;
+    /* border: 1px solid white; */
+}
+
+
+
 footer {
     text-align: center;
     margin-bottom: 2%;
