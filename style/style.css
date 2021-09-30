@@ -79,21 +79,13 @@ nav a {
 }
 
 #whereimnow img{
-    /* width: 50%; */
-    height: 400px;
-    padding: 12px 40px;
-    margin: 12px;
-    float: left;
-    margin-bottom: 25px;
-    border: 2px solid green;
-    display: block;
+    width: 80%;
 }
 
-.imageframe {
-    border: 2px solid red;
-    height: 400px;
-    margin: 12px;
-} 
+figure {
+    margin-top: 12%;
+}
+
 
 .webdev {
     padding: 25% 15%;
@@ -127,16 +119,13 @@ footer {
 /* contact page */
 
 .socialmedia {
-     padding: 25% 15%;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding: 25% 15%;
 }
 
 .so-me {
-    float: left;
-    margin-left: 5%;
-    margin-right: 5%;
-}
-
-form {
-    background-color: #272727;
-    display: inline-block;
+    margin-top: 10%;
+    margin-bottom: 10%;
 }
