@@ -121,3 +121,17 @@ footer {
 .resume-block {
     margin-bottom: 55px;
 }
+
+
+
+/* contact page */
+
+.socialmedia {
+     padding: 25% 15%;
+}
+
+.so-me {
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+}
