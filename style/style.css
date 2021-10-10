@@ -129,3 +129,26 @@ footer {
     margin-top: 10%;
     margin-bottom: 10%;
 }
+
+/* projects page */
+
+.projects {
+    padding: 25% 15%;
+    width: 80%;
+    margin: auto;
+}
+
+.projects figure{
+    margin-top: 25px;
+}
+
+.projects img {
+    width: 80%;
+}
+
+/* about page */
+.about {
+    width: 80%;
+    margin: auto;
+    padding-top: 25%;
+}
