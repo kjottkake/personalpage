@@ -31,6 +31,14 @@ h2 {
     font-size: 2.5rem;
 }
 
+.segment h3 {
+    font-size: 1.5rem;
+}
+
+ul li{
+    padding-top: 15px;
+}
+
 
 /* navbar stuff */
     /* just my name thingie to be changed? */
@@ -92,6 +100,10 @@ figure {
     /* border: 1px solid white; */
 }
 
+.quote{
+    text-align: center;
+    padding-bottom: 15%;
+}
 
 
 footer {
@@ -155,5 +167,7 @@ footer {
 .about {
     width: 80%;
     margin: auto;
+    margin-bottom: 10%;
     padding-top: 25%;
+    
 }
