@@ -110,6 +110,11 @@ footer {
     background-color: #272727;
 }
 
+.resume .title {
+    text-align: center;
+    padding-bottom: 5%;
+}
+
 .resume-block {
     margin-bottom: 55px;
 }
